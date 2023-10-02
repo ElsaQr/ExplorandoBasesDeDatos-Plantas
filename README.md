@@ -9,11 +9,13 @@
     ENSEMBL - Arabidopsis http://plants.ensembl.org/Arabidopsis_thaliana/Info/Index
     
     1.2 Navegadores de Plantas
+    
     PHYTOZOME https://phytozome-next.jgi.doe.gov/
     ENSEMBL https://plants.ensembl.org/index.html
 
 2.- BLAST 
   https://blast.ncbi.nlm.nih.gov/Blast.cgi
+  
   2.1 BLASTN 
   2.2 BLASTP
   
