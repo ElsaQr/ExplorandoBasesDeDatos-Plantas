@@ -23,6 +23,7 @@
    http://hmmer.org/
    
 4.-ALINEAMIENTOS Y ÁRBOL FILOGENÉTICO
+
     MAFFT https://mafft.cbrc.jp/alignment/software/treein.html
     Arból filogenético - Neighbor-Joining (NJ) method 
   
